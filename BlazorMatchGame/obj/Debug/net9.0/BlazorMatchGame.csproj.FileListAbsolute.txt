@@ -77,3 +77,4 @@
 /Users/tara/csharp/BlazorMatchGame/BlazorMatchGame/obj/Debug/net9.0/BlazorMatchGame.pdb
 /Users/tara/csharp/BlazorMatchGame/BlazorMatchGame/obj/Debug/net9.0/BlazorMatchGame.genruntimeconfig.cache
 /Users/tara/csharp/BlazorMatchGame/BlazorMatchGame/obj/Debug/net9.0/ref/BlazorMatchGame.dll
+/Users/tara/csharp/BlazorMatchGame/BlazorMatchGame/obj/Debug/net9.0/BlazorMatchGame.sourcelink.json
